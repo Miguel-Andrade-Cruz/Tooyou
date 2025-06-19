@@ -1,0 +1,7 @@
+sqlalchemy
+alembic
+fastapi[standard]
+pytest
+freezegun
+mysql-connector-python
+pytest-mock
